@@ -24,10 +24,11 @@ print(count)
 ```
 
 ## story.txt
-'''
+```
 Thee name is Jesus
 Merry Christmas
-And a Happy New Year'''
+And a Happy New Year
+```
 
 ## Output
 ![alt text](5-1.png)
